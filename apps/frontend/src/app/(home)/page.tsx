@@ -39,7 +39,7 @@ function Home() {
 				</div>
 			</section>
 
-			<section className='w-full bg-gray-900 py-8 text-white md:py-12 lg:py-16'>
+			<section className='w-full bg-zinc-900 py-8 text-white md:py-12 lg:py-16'>
 				<div className='container px-4 md:px-6'>
 					<div className='flex flex-col items-center space-y-4 text-center'>
 						<div className='space-y-2'>

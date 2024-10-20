@@ -39,3 +39,5 @@ next-env.d.ts
 !.yarn/releases
 !.yarn/plugins
 .turbo
+
+dist

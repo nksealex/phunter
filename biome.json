@@ -21,6 +21,9 @@
 			"recommended": true,
 			"nursery": {
 				"useSortedClasses": "error"
+			},
+			"style": {
+				"useImportType": "off"
 			}
 		}
 	}

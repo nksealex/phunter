@@ -12,5 +12,7 @@ Phunter is here to help you discover the latest and greatest products. We’re a
 - **Learn**: Follow our journey as we build this thing from scratch. Ask questions, give feedback, and be part of the crew!
 - **Connect**: We're a big [community](https://x.com/buildinpublic) of builders. Join us on [X](https://x.com/buildinpublic) to get the latest updates, share ideas, and connect with others.
 
+![Alt](https://repobeats.axiom.co/api/embed/44cf3dc631205594c20c4bed2a9c0f65b0404841.svg "Repobeats analytics image")
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

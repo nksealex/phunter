@@ -5,6 +5,7 @@
 	"workspaces": ["apps/*"],
 	"scripts": {
 		"build": "turbo run build",
+		"start": "turbo run start",
 		"dev": "turbo run dev",
 		"lint": "turbo run lint"
 	},
